@@ -4,6 +4,12 @@ A basic voting application created using [Blitz.js](https://blitzjs.com/).
 
 Blitz is the fullstack React framework — built on Next.js.
 
+![](docs/images/blitzjs_homepage.png)
+
+![](docs/images/blitzjs_voting_app.png)
+
+---
+
 ## Getting Started
 
 Install Blitz:
